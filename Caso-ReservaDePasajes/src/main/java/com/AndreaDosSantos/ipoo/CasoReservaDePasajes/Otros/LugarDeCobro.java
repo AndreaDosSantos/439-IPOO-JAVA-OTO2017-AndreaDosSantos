@@ -1,6 +1,5 @@
 package com.AndreaDosSantos.ipoo.CasoReservaDePasajes.Otros;
 
-import java.util.Date;
 
 public class LugarDeCobro {
 	private int id;

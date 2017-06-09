@@ -60,5 +60,7 @@ public class Economico {
 		this.cena = cena;
 	}
 	
-	
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
 }

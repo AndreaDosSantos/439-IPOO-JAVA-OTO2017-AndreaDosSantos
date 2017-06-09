@@ -5,7 +5,7 @@ public class Pasaje {
 	private int precio;
 	
 	public Pasaje (){
-
+		
 	}
 
 	public Pasaje(int id, int precio) {
@@ -30,7 +30,9 @@ public class Pasaje {
 		this.precio = precio;
 	}
     
-      
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
 }
 
 

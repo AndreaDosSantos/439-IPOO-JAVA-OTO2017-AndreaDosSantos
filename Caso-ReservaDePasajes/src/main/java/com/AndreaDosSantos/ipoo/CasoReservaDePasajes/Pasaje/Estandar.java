@@ -101,5 +101,7 @@ public class Estandar {
 		this.postre = postre;
 	}
 	
-	
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
 }

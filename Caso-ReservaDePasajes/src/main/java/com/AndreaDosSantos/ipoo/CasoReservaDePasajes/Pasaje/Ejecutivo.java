@@ -122,6 +122,8 @@ public class Ejecutivo {
 		this.artMultimedia = artMultimedia;
 	}
 	
-	
+	public void obtServicios(int id, String nombre, double costo){
+		
+	}
 	
 }
